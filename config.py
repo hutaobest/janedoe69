@@ -40,13 +40,13 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/beasts_network")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/soul_society_pirates")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/beasts_community")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
 # make your bots privacy from telegra.ph and put your url here 
-PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-AviaxMusic-08-14")
+PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-remmusic-08-14")
 
 
 # Get this credentials from https://developer.spotify.com/dashboard
@@ -81,13 +81,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/c1d824fa94a862872a1dc-499622303672a23b1a.jpg"
+    "START_IMG_URL", "https://graph.org/file/eef212469624b21ac0e8c-fe12be732045808b6f.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/1cce27d98efed430e008d-59b5a21ad87bda59aa.jpg"
+    "PING_IMG_URL", "https://graph.org/file/a340875fe416dbcf53cfb-8391390f638b79435f.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org//file/3dfcffd0c218ead96b102.png"
-STATS_IMG_URL = "https://graph.org/file/6ee562ae03adc65982b67-f349400e9d9b946706.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/90932024774fb71280082-c0711c0e5a43a9d050.jpg"
+STATS_IMG_URL = "https://graph.org/file/add2eefc0e1ce89ebd864-19aaf3cf29ef373e33.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 TELEGRAM_VIDEO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 STREAM_IMG_URL = "https://graph.org/file/6ee562ae03adc65982b67-f349400e9d9b946706.jpg"
