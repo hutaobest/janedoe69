@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "20817057"))
 API_HASH = getenv("API_HASH", "e2530f82f8168f7f4e7b6f68d2e44dc3")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7550267981:AAGR1zRFvwQW1pdroNNQo9kNknMSniYIuiw")
+BOT_TOKEN = getenv("BOT_TOKEN", "7550267981:AAE4TvGNIEGBfRcPiPQ0NRJojPZ8xOZ8QYg")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://lelouchinuzuma:ff6hsp0ftlC4gw3F@cluster0.grpk0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/hutaobest/janedoebitch",
+    "https://github.com/hutaobest/janedoebitch1",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -81,7 +81,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/eef212469624b21ac0e8c-fe12be732045808b6f.jpg"
+    "START_IMG_URL", "https://envs.sh/QBl.mp4"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/a340875fe416dbcf53cfb-8391390f638b79435f.jpg"
