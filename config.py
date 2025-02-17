@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/hutaobest/janedoebitch2",
+    "https://github.com/hutaobest/janedoebitch3",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -81,7 +81,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/miX.jpg", "https://envs.sh/4j.jpg" , "https://envs.sh/4G.jpg"
+    "START_IMG_URL", "https://envs.sh/Qvk.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/a340875fe416dbcf53cfb-8391390f638b79435f.jpg"
